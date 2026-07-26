@@ -19,7 +19,7 @@ Desarrollar un análisis integral de negocio sobre la plataforma de suscripción
 
 ## 📐 Arquitectura de la Solución
 
-![Diagrama de Flujo del Proceso](docs/assets/flujo_proceso.png)
+![Diagrama de Flujo del Proceso](docs/assets/flujo_procesop2.png)
 ---
 
 ## 📊 Vista Previa del Dashboard Ejecutivo
