@@ -19,7 +19,6 @@ Desarrollar un análisis integral de negocio sobre la plataforma de suscripción
 
 ## 📐 Arquitectura de la Solución
 
-```mermaid
 flowchart TD
     classDef rawData fill:#F87171,stroke:#991B1B,stroke-width:2px,color:#FFFFFF
     classDef etl fill:#FBBF24,stroke:#92400E,stroke-width:2px,color:#000000
