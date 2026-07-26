@@ -7,7 +7,7 @@
 * **Ticket Promedio (AOV):** $AOV = \frac{Revenue}{Total\_Pedidos}$
 * **Tasa de Penetración Suscritos:** $Penetration = \frac{Pedidos\_RappiPlus}{Total\_Pedidos} \times 100$
 
-### Embudo de Conversión (Funnel)
+## Embudo de Conversión (Funnel)
 * **Tasa de Abandono en Checkout (Drop-Off):**
 $$DropOff_{Checkout} = \frac{Usuarios_{Checkout} - Usuarios_{Purchase}}{Usuarios_{Checkout}} \times 100$$
 
@@ -17,13 +17,9 @@ $$DropOff_{Checkout} = \frac{Usuarios_{Checkout} - Usuarios_{Purchase}}{Usuarios
 * **Z-Test de Proporciones:**
 $$Z = \frac{\hat{p}_B - \hat{p}_A}{\sqrt{\hat{p}(1-\hat{p})\left(\frac{1}{n_B} + \frac{1}{n_A}\right)}}$$
 Donde $\hat{p}$ es la proporción combinada. Nivel de significancia fijado en $\alpha = 0.05$.
+  
 
-
-Archivo 4.2: README.md (Página Principal del Repositorio)
-
-Crea el archivo README.md en la raíz del proyecto e inserta:
-
-# 🛵 Análisis Integral de Negocio, Funnels y Pruebas A/B - RappiPlus
+## 🛵 Análisis Integral de Negocio, Funnels y Pruebas A/B - RappiPlus
 
 ![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -68,3 +64,21 @@ analisis-integral-rappiplus/
 └── docs/                               <-- Documentación y capturas
     ├── DOCUMENTACION_TECNICA.md        <-- Formulación matemática
     └── assets/                         <-- Datasets y gráficos
+
+##🛠️ Stack Tecnológico
+
+SQL: CTEs, Subconsultas, Window Functions, DATE_TRUNC.
+
+Python: Pandas, NumPy, SciPy (Proportion Z-Test), Statsmodels.
+
+Visualización: Power BI / Matplotlib.
+
+Documentación: Markdown & TeX/LaTeX.
+
+##✉️ Contacto
+
+Autor: Edwin Contreras
+
+LinkedIn: Perfil de LinkedIn
+
+GitHub: @contreraswz
