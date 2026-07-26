@@ -11,7 +11,7 @@ Desarrollar un análisis integral de negocio sobre la plataforma de suscripción
 
 ## 🛠️ Tecnologías Utilizadas
 * **Python (Pandas, SciPy, Statsmodels):** Limpieza/ETL de datasets heterogéneos, modelado cuantitativo y prueba Z de proporciones para análisis A/B ($\alpha = 0.05$).
-* **SQL (PostgreSQL):** Consultas avanzadas para el mapeo del funnel de eventos, análisis de *drop-off* y construcción de modelos de retención por cohortes.
+* **SQL:** Consultas avanzadas para el mapeo del funnel de eventos, análisis de *drop-off* y construcción de modelos de retención por cohortes.
 * **Power BI / Tableau:** Visualización ejecutiva bajo el marco **C-F-I** (Contexto, Findings, Impacto) para la toma de decisiones estratégicas.
 * **Analytics End-to-End & Unit Economics:** Evaluación del ciclo de vida del usuario, CAC, ROAS y margen neto.
 
