@@ -27,6 +27,7 @@ Desarrollar un análisis integral de negocio sobre la plataforma de suscripción
 A continuación se muestra el panel interactivo desarrollado para la alta dirección, donde se integran los hallazgos de rentabilidad, fuga de conversión en funnels y los resultados del experimento A/B:
 
 ![Vista Previa del Dashboard de RappiPlus](docs/assets/dashboard_rappiplus.png)
+![Vista Previa del Dashboard de RappiPlus DEtalle](docs/assets/dashboard_rappiplus_detail.png)
 
 *Figura 1: Dashboard ejecutivo con métricas de Unit Economics, embudo de conversión y resultados de la prueba A/B.*
 
