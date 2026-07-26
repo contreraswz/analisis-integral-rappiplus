@@ -21,7 +21,7 @@ Donde $\hat{p}$ es la proporción combinada. Nivel de significancia fijado en $\
 
 ## 🛵 Análisis Integral de Negocio, Funnels y Pruebas A/B - RappiPlus
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL]
 ![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-Dashboard-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black)
 ![A/B Testing](https://img.shields.io/badge/Experimentation-A/B_Test-green?style=for-the-badge)
@@ -74,11 +74,3 @@ Python: Pandas, NumPy, SciPy (Proportion Z-Test), Statsmodels.
 Visualización: Power BI / Matplotlib.
 
 Documentación: Markdown & TeX/LaTeX.
-
-##✉️ Contacto
-
-Autor: Edwin Contreras
-
-LinkedIn: Perfil de LinkedIn
-
-GitHub: @contreraswz
